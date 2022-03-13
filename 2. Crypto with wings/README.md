@@ -21,9 +21,9 @@ Every cryptographic challenge begins with a mystery message you can't read.
 
 
 
-##Glossary
+## Glossary
 
-###Cryptography
+### Cryptography
 
 Cryptographic systems in computer security can provide one or more of the following four services:
 

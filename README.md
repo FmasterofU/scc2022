@@ -1,4 +1,4 @@
-#Serbian Cybersecurity Challenge 2022
+# Serbian Cybersecurity Challenge 2022
 
 Exercises: `15`
 

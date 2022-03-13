@@ -20,8 +20,8 @@ The picture describes the essence of competition and the beauty of Austria, the 
 
 [SCS_Red Bull_SteganographyChallenge.jpg](SCS_Red Bull_SteganographyChallenge.jpg)
 
-##Glossary
+## Glossary
 
-###Steganography
+### Steganography
 
 Is the technique of hiding data in ordinary (for example image or audio) files.

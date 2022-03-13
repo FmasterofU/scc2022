@@ -24,9 +24,9 @@ You suspect that the data is encoded and encrypted with well-known AND frequentl
 
 
 
-##Glossary
+## Glossary
 
-###Cryptography
+### Cryptography
 
 Cryptographic systems in computer security can provide one or more of the following four services:
 

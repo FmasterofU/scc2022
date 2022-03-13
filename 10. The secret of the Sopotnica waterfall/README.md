@@ -18,8 +18,8 @@ Analyze how data can be concealed in images. Find where the secret is hidden and
 
 [sopotnica.png](sopotnica.png)
 
-##Glossary
+## Glossary
 
-###Steganography
+### Steganography
 
 Is the technique of hiding data in ordinary (for example image or audio) files.

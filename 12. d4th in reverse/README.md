@@ -18,8 +18,8 @@ Among them, you found an interesting binary file that you decided to investigate
 
 [d4th_reverse](d4th_reverse)
 
-##Glossary
+## Glossary
 
-#Reverse Engineering
+### Reverse Engineering
 
 Is the process of taking apart an application to see how it works. It's a lot easier if the program is written using a managed language, however, in the native world, it usually means you have to dive into assembly code.
